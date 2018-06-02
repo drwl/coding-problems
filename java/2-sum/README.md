@@ -1,4 +1,4 @@
-## Two Sum (Leetcode, Easy)
+## 1. Two Sum (Leetcode, Easy)
 ### Source: [Leetcode](https://leetcode.com/problems/two-sum/description/)
 
 Problem

@@ -1,4 +1,4 @@
-## Single Element in a Sorted Array (Leetcode, Medium)
+## 540. Single Element in a Sorted Array (Leetcode, Medium)
 ### Source: [Leetcode](https://leetcode.com/problems/single-element-in-a-sorted-array/description/)
 
 Problem
